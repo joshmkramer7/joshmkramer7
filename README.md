@@ -26,7 +26,7 @@ The portfolio is designed to help organizations:
 | [`customer-listening-os`](https://github.com/joshmkramer7/customer-listening-os) | Governed customer-evidence collection, curation, analysis, and impact assessment | Traceable customer learning connected to decisions and initiative outcomes |
 | [`market-intelligence-os`](https://github.com/joshmkramer7/market-intelligence-os) | Continuous market evidence, signals, recommendations, and monitoring | Better strategic awareness and decision-ready market intelligence |
 | [`product-operations-os`](https://github.com/joshmkramer7/product-operations-os) | Initiative state, portfolio visibility, operating cadence, flow, and product health | More accountable operating reviews and clearer intervention decisions |
-| [`product-os-governance`](https://github.com/joshmkramer7/product-os-governance) | Shared repository, ownership, compatibility, and handoff contracts | A coherent portfolio with explicit sources of truth and reduced method drift |
+| [`product-governance-os`](https://github.com/joshmkramer7/product-governance-os) | Shared repository, ownership, compatibility, and handoff contracts | A coherent portfolio with explicit sources of truth and reduced method drift |
 | [`company-product-os`](https://github.com/joshmkramer7/company-product-os) | Private company configuration and runtime deployment | Safe organizational adoption with pinned methods, local controls, and protected evidence |
 | [`joshs-product-leadership-os`](https://github.com/joshmkramer7/joshs-product-leadership-os) | Private personal workshop and AI-enabled leadership system | Faster recurring work and preserved personal judgment without weakening portable methods |
 
